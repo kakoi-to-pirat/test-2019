@@ -49,6 +49,7 @@
     "apollo-link-error": "^1.1.0",
     "apollo-link-http": "^1.5.4",
     "apollo-upload-client": "^10.0.0",
+    "core-js": "2",
     "graphql": "^14.0.2",
     "graphql-tag": "^2.9.2",
     "intl-tools": "^0.1.11",
